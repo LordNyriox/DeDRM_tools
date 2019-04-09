@@ -1,4 +1,6 @@
 # DeDRM_tools
+[![Build status](https://ci.appveyor.com/api/projects/status/5c7tb3fnvdrhph18/branch/appveyor?svg=true)](https://ci.appveyor.com/project/LordNyriox/dedrm-tools/branch/appveyor)
+
 DeDRM tools for ebooks
 
 This is a repository of all the scripts and other tools for removing DRM from ebooks that I could find, committed in date order as best as I could manage. (Except for the Requiem tools for Apple's iBooks, and Convert LIT for Microsoft's .lit ebooks.)
