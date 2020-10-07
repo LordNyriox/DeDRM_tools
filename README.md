@@ -1,5 +1,5 @@
 # DeDRM_tools
-[![Build status](https://ci.appveyor.com/api/projects/status/github/LordNyriox/dedrm-tools?branch=appveyor-rebase&svg=true)](https://ci.appveyor.com/project/LordNyriox/dedrm-tools/branch/appveyor-rebase)
+[![Build status](https://ci.appveyor.com/api/projects/status/ikyx7nukliunhie8/branch/appveyor-rebase?svg=true)](https://ci.appveyor.com/project/LordNyriox/dedrm-tools/branch/appveyor-rebase)
 
 DeDRM tools for ebooks
 
